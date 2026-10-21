@@ -1,6 +1,7 @@
 {
  "work": "後拾遺和歌集",
  "work_id": "kt-goshui",
+ "repo": "kumoi-no-fumigura/goshui-wakashu",
  "yomi": "ごしゅういわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -11248,7 +11249,7 @@
     56
    ],
    "no": 936,
-   "kotobagaki": "ユニミの原たつ白波のいかなれば名殘久しく見ゆるなるらむあし",
+   "kotobagaki": "かへし",
    "author": "赤染衛門",
    "text": "風風は思思はぬ方に吹きしかどわたの原たつ浪はなかりき",
    "sachu": ""
@@ -11260,7 +11261,7 @@
     56
    ],
    "no": 937,
-   "kotobagaki": "のうち",
+   "kotobagaki": "中納言定賴家をはなれてひとり侍りける頃住み侍りける所のこしば垣の中におかせ侍りける",
    "author": "相模",
    "text": "培人ふれず心ながくや時雨るらむ更行く秋の夜はのね聲に",
    "sachu": ""
@@ -14661,6 +14662,5 @@
    "text": "さささああばあれ大和心し賢くばほそぢに付けて荒す計ぞ",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/goshui-wakashu"
+ ]
 }
