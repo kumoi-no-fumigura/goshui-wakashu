@@ -24,7 +24,6 @@
   }
  ],
  "status": "校正中（NDL 全文 OCR からプログラムで一首ずつ切り出し、修正案などで 2 か所を直した。ほかは誤認識を含む）",
- "proofread_at": "2026-10-29",
  "license": {
   "text": "CC0 1.0"
  },
@@ -15909,6 +15908,7 @@
   }
  ],
  "poems": [],
+ "proofread_at": "2026-10-29",
  "catalog": {
   "work_id": "kt-goshui",
   "work": "後拾遺和歌集",
